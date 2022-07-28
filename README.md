@@ -1,7 +1,7 @@
 # rectangularToPolar
 
 ### Description
-This C++ code uses the concepts of [*Polar* and *Rectangular* complex number notations](https://www.allaboutcircuits.com/textbook/alternating-current/chpt-
+This C++ code uses the concepts of [Polar and Rectangular complex number notations](https://www.allaboutcircuits.com/textbook/alternating-current/chpt-
 2/polar-rectangular-notation/f) to convert from rectangular to polar, given the **real** and **imaginary** values.
 ### Getting started
   1. Download [Visual Studio Code](https://code.visualstudio.com/download) for macOS or Windows 
